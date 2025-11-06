@@ -50,8 +50,8 @@ with col2:
     st.subheader("Project Details")
     st.markdown(
         """
-        - **Project:** AI/ML Endsem Project
-        - **Year:** 2025-26
+        - **Project:** AI/ML Endsem Project (2025-26)
+        - **Project Goal:** To Forecast PM2.5 of Gomtipura city (M.P)
         """
     )
 st.markdown("---") # Adds another horizontal line
